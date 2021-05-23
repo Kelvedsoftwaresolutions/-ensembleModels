@@ -5,8 +5,8 @@ ensembleModels
 Multiple models working together.
 
 # 4 types
-1. Bagging
-2. Boosting
+1. Bagging - reduce high variance
+2. Boosting - reduce high bias
 3. Stacking
 4. Cascading
 
